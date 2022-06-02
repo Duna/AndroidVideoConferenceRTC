@@ -1,4 +1,4 @@
-# Video conference ⚡ for webRTC protocol
+# Video conference ⚡ with webRTC protocol
 
 [![Build Status](https://openvidu.io/img/logos/openvidu_vert_white_bg_trans_cropped.png)](https://travis-ci.org/joemccann/dillinger)
 
